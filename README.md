@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @chhavi-rana
+- 👋 Hi, I’m @ArCeus7
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning core CS subjects.
-- 💞️ I’m looking to collaborate on ...!!!!!... for now I don't know.
+- 💞️ I’m looking to collaborate on .......
 - 📫 How to reach me : chhavirana83@gmail.com
 
 <!---
