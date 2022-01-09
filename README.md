@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArCeus7
+- 👋 Hi, I’m @chhavi-rana
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning core CS subjects.
 - 💞️ I’m looking to collaborate on .......
